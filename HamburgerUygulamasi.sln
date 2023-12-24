@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamburgerUygulamasi", "HamburgerUygulamasi\HamburgerUygulamasi.csproj", "{A7D8E479-8A10-4A37-ACE5-E4A67EEAAA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamburgerUygulamasi.Data", "HamburgerUygulamasi.Data\HamburgerUygulamasi.Data.csproj", "{073CEE7E-8C2C-4CF5-8680-5CE4F3DF57E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D8E479-8A10-4A37-ACE5-E4A67EEAAA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D8E479-8A10-4A37-ACE5-E4A67EEAAA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D8E479-8A10-4A37-ACE5-E4A67EEAAA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D8E479-8A10-4A37-ACE5-E4A67EEAAA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073CEE7E-8C2C-4CF5-8680-5CE4F3DF57E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073CEE7E-8C2C-4CF5-8680-5CE4F3DF57E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073CEE7E-8C2C-4CF5-8680-5CE4F3DF57E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073CEE7E-8C2C-4CF5-8680-5CE4F3DF57E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E106606-26D0-433D-B440-523EBD0CF3A6}
+	EndGlobalSection
+EndGlobal
